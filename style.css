@@ -12,7 +12,7 @@
   background-color: black;
 }
 .circle {
-  border: solid rgb(69, 177, 248)``;
+  border: solid rgb(69, 177, 248);
   width: var(--circle-size);
   height: var(--circle-size);
   animation: spin var(--circle-period) linear infinite;
